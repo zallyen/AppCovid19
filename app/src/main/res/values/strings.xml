@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Estadísticas COVID-19</string>
+    <string name="confirmados">Confirmados</string>
+    <string name="muertos">Muertos</string>
+    <string name="recuperados">Recuperados</string>
+    <string name="pais_name">NombreDelPaís</string>
+</resources>
